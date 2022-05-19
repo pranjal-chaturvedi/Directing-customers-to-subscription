@@ -35,3 +35,5 @@ The features are:
 The data for these projects are manufactured fields based on trends in real world case studies. The fields describe what companies usually track from their users, and their distributions are based on observed distributions in real world analysis. This means that, although the data has been artificially ceated, the patterns, associations and distributions are not random.
 
 The data serves as a good representation of what one may encounter in the workplace. That is, the data is rarely clean and a lot of pre-processing is needed to get it ready for modelling.
+
+Dataset courtesy: [SuperDataScience](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P39-CS3-Python-Code.zip)
